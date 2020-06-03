@@ -1,0 +1,1 @@
+This is my fake google page. Pretty new to all this so bare with me. Never used ubuntu until now but it's not too bad. Thanks for reading. Have a great day!!!
