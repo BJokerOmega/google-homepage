@@ -1,0 +1,24 @@
+body {
+    background-color: grey;
+  }
+  
+  #title {
+    text-align: center;
+    font-size: 100px;
+  }
+  
+  #form {
+    text-align: center;
+  }
+  
+  .topnavright {
+    position: fixed;
+    top: 10px;
+    right: -100px;
+    width: 300px;
+      
+  }
+  
+  #signin {
+    background-color: blue;
+  }
